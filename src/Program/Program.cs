@@ -2,6 +2,8 @@
 using System.Data.SqlTypes;
 using System.Text;
 
+using System.Collections.Generic;
+
 namespace Ucu.Poo.GameOfLife
 {
     class Program
