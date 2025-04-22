@@ -4,9 +4,13 @@ using System.Text;
 
 using System.Collections.Generic;
 
+<<<<<<< HEAD
 using System.Collections.Generic;
 
 namespace Ucu.poo.GameOfLife
+=======
+namespace Ucu.Poo.GameOfLife
+>>>>>>> Boardreadfile
 {
     public class nextmove()
     {
@@ -48,6 +52,7 @@ namespace Ucu.poo.GameOfLife
         }
     }
 }
+<<<<<<< HEAD
 
 
 
@@ -113,3 +118,6 @@ namespace Ucu.poo.GameOfLife
     }
 }
 >>>>>>> Game-Core
+=======
+// boardreadfile("board.txt");
+>>>>>>> Boardreadfile
